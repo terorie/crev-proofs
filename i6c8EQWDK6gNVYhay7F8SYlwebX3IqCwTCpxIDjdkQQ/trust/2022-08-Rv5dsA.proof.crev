@@ -1,0 +1,17 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2022-08-04T02:41:29.591477+02:00"
+from:
+  id-type: crev
+  id: i6c8EQWDK6gNVYhay7F8SYlwebX3IqCwTCpxIDjdkQQ
+  url: "https://github.com/terorie/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+----- SIGN CREV PROOF -----
+yrDDzLOGaT5e_4h4X7gAxSG0jcTezaGFIglqy5bT9QK1S4zFnsKDQwXaBqGGLZQJBLgH1H3Bs7C6b0nghYlQDw
+----- END CREV PROOF -----
+

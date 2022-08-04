@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-08-04T02:47:45.627856+02:00"
+from:
+  id-type: crev
+  id: i6c8EQWDK6gNVYhay7F8SYlwebX3IqCwTCpxIDjdkQQ
+  url: "https://github.com/terorie/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: solana_rbpf
+  version: 0.2.31
+  revision: ce5e8d572e9ac0777c93a0e8cc71c8e7382270bc
+  digest: ndym7WEh0bOMFBxojggY2M3-dQrph0352-0Zg4NKbqQ
+review:
+  thoroughness: low
+  understanding: high
+  rating: strong
+comment: |-
+  repeatedly audited, manually verified
+----- SIGN CREV PROOF -----
+wvWGjiLKOB_Ufb72rjcPKF3ReKY6pu1mIT2pL9NCOeTWZp7zmz-zFO6bBBVEIJFkznquMNwMqf2-sVELaI3sBw
+----- END CREV PROOF -----
+

@@ -22,3 +22,27 @@ comment: |-
 wvWGjiLKOB_Ufb72rjcPKF3ReKY6pu1mIT2pL9NCOeTWZp7zmz-zFO6bBBVEIJFkznquMNwMqf2-sVELaI3sBw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-08-04T03:04:01.993303+02:00"
+from:
+  id-type: crev
+  id: i6c8EQWDK6gNVYhay7F8SYlwebX3IqCwTCpxIDjdkQQ
+  url: "https://github.com/terorie/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: solana-storage-proto
+  version: 1.11.5
+  revision: 403b2e4841ef7301370e86a443ebe51f8ae512e0
+  digest: 9lu3xfumblGuttywwdddncaayQP5N0uuo4nlQrbH_wc
+review:
+  thoroughness: low
+  understanding: high
+  rating: strong
+comment: |-
+  simple crate, part of the Solana validator
+----- SIGN CREV PROOF -----
+RdbyRzwkXiq96UXV2-dyfUE3ffWGM-mH7ifwvuq02CktfvBylr6veceNnk2TBZPN8nsQfdzjiu6g_LfvP0zqDg
+----- END CREV PROOF -----
+

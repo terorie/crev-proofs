@@ -70,3 +70,27 @@ comment: |-
 yKlVgL7oDP_UZVp8cbGS71RSN53XymHWSsC-4KEPJXOIQrnulPgSrj5DF3OvYm-u6PTebdAelTJ_mXz9am5lAQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-08-04T11:57:16.731783+02:00"
+from:
+  id-type: crev
+  id: i6c8EQWDK6gNVYhay7F8SYlwebX3IqCwTCpxIDjdkQQ
+  url: "https://github.com/terorie/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: poc-framework
+  version: 0.2.0
+  revision: 30043ce02103890fefa134b6d931542fa3ba189b
+  digest: jRvtZ_a8xBdsI0aIRiRi78Q58USytQ7xnDh9qpUfiu0
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: |-
+  trustworthy
+----- SIGN CREV PROOF -----
+ls50tLtiI3VS7B3Enf1Lcy2rAjdgVAXvqCpVPmlqYiIF-4Iv5jQr6QLuUAmMNE0v1bKe3zAxm1xZXy3snC6GBg
+----- END CREV PROOF -----
+

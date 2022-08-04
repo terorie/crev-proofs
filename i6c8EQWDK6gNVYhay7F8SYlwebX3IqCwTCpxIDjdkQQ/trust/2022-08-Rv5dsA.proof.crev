@@ -15,3 +15,22 @@ trust: medium
 yrDDzLOGaT5e_4h4X7gAxSG0jcTezaGFIglqy5bT9QK1S4zFnsKDQwXaBqGGLZQJBLgH1H3Bs7C6b0nghYlQDw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2022-08-04T02:55:53.892398+02:00"
+from:
+  id-type: crev
+  id: i6c8EQWDK6gNVYhay7F8SYlwebX3IqCwTCpxIDjdkQQ
+  url: "https://github.com/terorie/crev-proofs"
+ids:
+  - id-type: crev
+    id: VylyTuk8CMGqIxgHixWaqfiUn3xZyzOA1wFrQ0sR1As
+    url: "https://github.com/BurntSushi/crev-proofs"
+trust: medium
+comment: |-
+  well-known Rust contributor
+----- SIGN CREV PROOF -----
+og6IMR5tG8mv1qIZi5RDp4lLdhfcnsRonYAi-GkgFnnzGgJO7t4TtAAJi6Z32lhClATxZglpoAEPSvGa_bwvAg
+----- END CREV PROOF -----
+
